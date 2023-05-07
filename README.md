@@ -1,3 +1,5 @@
 # Voltup_casestudy
-voltup case study optimization models
-Currently outputs are for 3 year model therefore 1 year constraints and objectives are commented out 
+Voltup is a company that works on battery swapping model for electric vehicle.
+We tried to make deciesion of the best suited location to open battery swapping center based on epsilon constraint method and TOPSIS.
+we have done research considering demand for 1 year and 3 year
+
